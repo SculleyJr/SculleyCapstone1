@@ -1,0 +1,7 @@
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\bin\Debug\Capstone1-sumbat.exe.config
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\bin\Debug\Capstone1-sumbat.exe
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\bin\Debug\Capstone1-sumbat.pdb
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\obj\Debug\Capstone1-sumbat.csprojResolveAssemblyReference.cache
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\obj\Debug\Capstone1-sumbat.csproj.CoreCompileInputs.cache
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\obj\Debug\Capstone1-sumbat.exe
+C:\Users\scull\source\repos\Capstone1-sumbat\Capstone1-sumbat\obj\Debug\Capstone1-sumbat.pdb
